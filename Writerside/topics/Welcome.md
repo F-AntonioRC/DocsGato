@@ -19,3 +19,12 @@ dar estilo a estos.
 ## Visualización del programa final
 
 ![screen cat game init](init_cat.png){border-effect="rounded" thumbnail="true" width="300"}
+
+## Pasos para el desarrollo
+
+```mermaid
+graph LR
+    A[Te gusta programar?]
+    A -- Yes --> B[Aprende didacticamente]
+    A -- No --> C[Cambia de carrera]
+```
